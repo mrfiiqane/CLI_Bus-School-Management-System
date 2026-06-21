@@ -1,3 +1,5 @@
+plan before code 
+
 # Columns: students
 id|FullName|Gender|Class|ParentName|ParentPhone|Fee|Driver
 
