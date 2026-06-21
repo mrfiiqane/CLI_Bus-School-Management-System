@@ -1,0 +1,34 @@
+# Columns: students
+id|FullName|Gender|Class|ParentName|ParentPhone|Fee|Driver
+
+
+
+# Columns: Drivers
+id|FullName|Phone|LicenseNumber|Salary
+
+
+# Columns: Buses
+id|BusNumber|Capacity|Driver
+
+
+
+# Columns: Reports
+Id   FullName       Status      Fee/Salary     Phone      BusNumber  Capacity  Date        
+---------------------------------------------------------------------
+1    faarax         Student      $50.00    906267283      26128811    1/15   2026-06-21  
+2    ali            Driver       $150.00   90626736274     26128811    2/15   2026-06-21  
+3    Aamino         Student      $50.00    90699723783      26128811    3/15  2026-06-21  
+4    xamdi          Student      $50.00    90628728357      26128811    4/15   2026-06-21  
+5    xuseen         Student      $50.00    90626829343     26128811    5/15   2026-06-21  
+
+-----------------Totals----------------------
+Total Students: 4
+Total Drivers: 2
+Total Buses: 1
+Total Student Fees  : $200.00
+Total Driver Salary : $300.00
+
+Total : $500.00
+
+
+feutures: add, view edit, delete, generatereport
